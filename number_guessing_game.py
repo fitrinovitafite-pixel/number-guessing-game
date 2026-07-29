@@ -5,7 +5,6 @@ print ("==== NUMBER GUESSING GAME ====")
 
 #komputer memilih angka acak
 angka_rahasia = random.randint(1, 100)
-#print (f"(DEBUG) angka rahasia komputer : {angka_rahasia}")
 
 percobaan = 0
 #pengulangan sampai tebakan benar
